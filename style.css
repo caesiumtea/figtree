@@ -1,0 +1,47 @@
+body {
+    max-width: 800px;
+    margin: auto;
+    color: #4d2477;
+    background-color: #e6ccff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header {
+    margin-top: 80px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a:link {
+    color: darkgreen;
+}
+
+a:visited {
+    color: darkslategray;
+}
+
+a:active {
+    color: teal;
+}
+
+.light {
+    font-weight: normal;
+}
+
+#left-links {
+    float: left;
+    width: 300px;
+    margin-bottom: 30px;
+}
+
+#right-links {
+    float: right;
+    width: 500px;
+    margin-bottom: 30px;
+}
+                
+#footer {
+    clear: both;
+}
